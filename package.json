@@ -1,0 +1,41 @@
+{
+  "name": "lost-ark-discord-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js",
+    "dev": "nodemon index.js",
+    "seed": "node db/seed.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/misterjaykay/lost-ark-discord-bot.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/misterjaykay/lost-ark-discord-bot/issues"
+  },
+  "homepage": "https://github.com/misterjaykay/lost-ark-discord-bot#readme",
+  "dependencies": {
+    "@discordjs/builders": "^0.8.2",
+    "@discordjs/opus": "^0.7.0",
+    "axios": "^0.20.0",
+    "cheerio": "^1.0.0-rc.10",
+    "discord.js": "^12.5.3",
+    "dotenv": "^8.6.0",
+    "express": "^4.17.1",
+    "ffmpeg-static": "^4.4.0",
+    "mongoose": "^6.0.13",
+    "node-schedule": "^2.1.0",
+    "yt-search": "^2.10.2",
+    "ytdl-core": "^4.9.1"
+  },
+  "devDependencies": {
+    "concurrently": "^6.4.0",
+    "nodemon": "^2.0.15"
+  }
+}
