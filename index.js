@@ -187,7 +187,7 @@ client.on("message", (message) => {
             `올리버(Oliver) - 토토이크(Tortoyk)\n\n` +
             `녹스(Nox) - 아르데타인(Arthetine)\n\n` +
             `아리세르(Aricer) - 로헨델(Rohendel)\n\n` +
-            `레이니(Rayni) - 파프니카(Punika)\n` +
+            `레이니(Rayni) - 파프니카(Punika)\n\n` +
             `벤(Ben) - 아르테미스(Rethramis)\n\n` +
             `피터(Peter) - 베른 북부(North Vern)\n\n` +
             `라이티르(Laitir) - 욘(Yorn)\n\n` +
@@ -211,7 +211,7 @@ client.on("message", (message) => {
             `모리스(Morris) - 루테란 동부(East Luterra)\n\n` +
             `맥(Mac) - 애니츠(Anikka)\n\n` +
             `제프리(Jeffrey) - 슈샤이어(Shushire)\n\n` +
-            `도렐라(Dorella) - 페이튼(Feiton)\n` +
+            `도렐라(Dorella) - 페이튼(Feiton)\n\n` +
             `벤(Ben) - 아르테미스(Rethramis)\n\n` +
             `피터(Peter) - 베른 북부(North Vern)\n\n` +
             `라이티르(Laitir) - 욘(Yorn)\n\n` +
@@ -235,7 +235,7 @@ client.on("message", (message) => {
             `모리스(Morris) - 루테란 동부(East Luterra)\n\n` +
             `맥(Mac) - 애니츠(Anikka)\n\n` +
             `제프리(Jeffrey) - 슈샤이어(Shushire)\n\n` +
-            `도렐라(Dorella) - 페이튼(Feiton)\n` +
+            `도렐라(Dorella) - 페이튼(Feiton)\n\n` +
             `말론(Malone) - 루테란 서부(West Luterra)\n\n` +
             `버트(Burt) - 루테란 동부(East Luterra)\n\n` +
             `올리버(Oliver) - 토토이크(Tortoyk)\n\n` +
